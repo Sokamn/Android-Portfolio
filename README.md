@@ -14,8 +14,6 @@ Now enjoy and experience what MangIA offers you, a social network style applicat
 
 This application is still in development, and is a job application with which you can perform small jobs that other users will post, such as painting, masonry, plumbing, babysitting, electrician, PC service, etc. This app is for people who aren't currently working, and want to get small jobs to earn money and solve the problems that other people have.
 
-<a href='https://play.google.com/store/apps/details?id=com.jackandphantom.mytodo'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
 ### Technolgies : MVVM, Kotlin, Firebase (Realtime | Firestore | Firebase Storage | Analytics | Auth (Google | Facebook | Email)), Room, Glide, Android SDK, XML, Figma (I have designed the app).
 
 # Earthquake Viewer Application 
