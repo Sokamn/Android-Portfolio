@@ -16,7 +16,7 @@ Now enjoy and experience what MangIA offers you, a social network style applicat
 
 This application is still in development, and is a job application with which you can perform small jobs that other users will post, such as painting, masonry, plumbing, babysitting, electrician, PC service, etc. This app is for people who aren't currently working, and want to get small jobs to earn money and solve the problems that other people have.
 
-### Technolgies : Kotlin, Firebase (Realtime | Firestore | Firebase Storage | Analytics | Auth (Google | Facebook | Email)), Room, Glide, Android SDK, XML, Figma (I have designed the app).
+### Technolgies : Kotlin, Firebase (Realtime | Firestore | Firebase Storage | Analytics | Auth (Google | Facebook | Email)), MapBox, Room, Glide, Android SDK, XML, Figma (I have designed the app).
 
 <p align="center">
 <img src="https://github.com/Sokamn/Android-Portfolio/blob/main/trovami_image_mockup.png" height = "500"  title="Trovami Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@ This application is still in development, and is a job application with which yo
 
 When I was studying at EducaciónIT, I built this application which is basically an application where you can see the different earthquakes that have appeared.
 
-### Technolgies : Android SDK, Kotlin, Room, MVVM, XML, Figma (I have designed the app).
+### Technolgies : Android SDK, Kotlin, Room, MVVM, XML, MapBox, Figma (I have designed the app).
 
 <p align="center">
 <img src="https://github.com/Sokamn/Android-Portfolio/blob/main/earthquake_viewer_mockup.png" height = "500"  title="Earthquake Viewer Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
