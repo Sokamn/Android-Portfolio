@@ -6,7 +6,7 @@
 
 # MangIA Application
 
-Now enjoy and experience what MangIA offers you, a social network style application that seeks to assist in the kitchen by providing recipes to users so that they can put them into practice. Users will be able to interact with the recipes generating feedback and perform simple and personalized searches. In MangIA we seek the greatest convenience for the user, providing automation and customization tools throughout the app. Coming soon on Google Play Store.
+Now enjoy and experience what MangIA offers you, a social network application that seeks to assist in the kitchen by providing recipes to users so that they can put them into practice. Users will be able to interact with the recipes generating feedback and perform simple and personalized searches. In MangIA we seek the greatest convenience for the user, providing automation and customization tools throughout the app. 
 
 ### Technolgies : Android SDK, Kotlin, XML, Firebase (Realtime | Firestore | Firebase Storage | Analytics | Auth (Google | Facebook | Email)), Glide, Navigation Components.
 
