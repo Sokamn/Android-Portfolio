@@ -4,7 +4,7 @@ Hi, I'm Matías, a passionate <b>Android Developer</b> with a strong focus on cr
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=matias.alzu143@gmail.com&tf=cm" target="_blank"><img src="https://github.com/Sokamn/Android-Portfolio/blob/main/gmail_bar.png"></a>
 <a href="https://www.linkedin.com/in/matias-alzu/" target="_blank"><img src="https://github.com/Sokamn/Android-Portfolio/blob/main/linkedin_bar.png" ></a>
 
-# Earthquake Viewer Application - <a href="https://appetize.io/app/b_smuam7dcvgysk6pucoobcdhgdy">¡Test Now!</a>
+# Earthquake Viewer Application - <a href="https://appetize.io/app/b_smuam7dcvgysk6pucoobcdhgdy" target="_blank">¡Test Now!</a>
 When I was studying at EducaciónIT, I built this application which is basically an application where you can see the different earthquakes that have appeared around the world.
 ### Technolgies : Android SDK, Kotlin, XML, NavComponents, Room, MVVM & Clean Architecture, MapBox, Figma for design.
 
