@@ -16,7 +16,7 @@ When I was studying at EducaciónIT, I built this application which is basically
 
 This application is still in development, and is a job application with which you can perform small jobs that other users will post, such as painting, masonry, plumbing, babysitting, electrician, PC service, etc. This app is for people who aren't currently working, and want to get small jobs to earn money and solve the problems that other people have.
 
-### Technolgies : Kotlin, Firebase (Realtime | Firestore | Firebase Storage | Analytics | Auth (Google | Facebook | Email)), MapBox, Glide, Android SDK, XML, Figma (I have designed the app).
+### Technolgies : Kotlin, Firebase (Realtime | Firestore | Firebase Storage | Analytics | Auth (Google | Email)), MapBox, Glide, Android SDK, XML, Figma (I have designed the app).
 
 <p align="center">
 <img src="https://github.com/Sokamn/Android-Portfolio/blob/main/trovami_image_mockup.png" height = "500"  title="Trovami Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
