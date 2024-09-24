@@ -11,6 +11,9 @@ When I was studying at EducaciónIT, I built this application which is basically
 <p align="center">
 <img src="https://github.com/Sokamn/Android-Portfolio/blob/main/earthquake_viewer_mockup.png" height = "500"  title="Earthquake Viewer Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+<b><a href="https://github.com/Sokamn/Earthquake_Viewer" target="_blank">Explore Earthquake Viewer's repository</a></b>
+</p>
 
 # Trovami Application
 
